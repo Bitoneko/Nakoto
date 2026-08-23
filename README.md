@@ -4,9 +4,9 @@ A lightweight, high-performance local audio player for Android.
 
 ## Key Features
 
-* **Foreground Audio Service:** Smooth, uninterrupted background playback tightly managed to prevent OS termination.
-* **Built-in Tag Editor:** Advanced metadata manipulation including ID3 tag parsing and direct binary file rewriting.
-* **Clean & Modern UI:** Designed with a focus on seamless navigation and responsive layout.
+* **Foreground Audio Service:** Smooth, uninterrupted background playback with reliable OS lifecycle management.
+* **Built-in Tag Editor:** Advanced metadata manipulation, including ID3 tag parsing and direct binary file rewriting.
+* **Clean & Modern UI:** Designed with a focus on seamless navigation and responsive performance.
 
 ## Tech Stack
 
@@ -15,11 +15,19 @@ A lightweight, high-performance local audio player for Android.
 * **Development Environment:** Sketchware Pro
 
 ## Architecture Note
-This project was developed entirely on mobile devices (initially on a smartphone, then moved and finalized on a tablet) due to the temporary absence of a PC. It stands as a proof of concept that robust engineering, binary tag parsing, and complex background services can be successfully implemented under strict hardware limitations. Interestingly, this lightweight approach bypasses the bloated configuration files and Gradle dependency hell of standard PC IDEs, where compilation errors and environment conflicts often trigger unexpected build failures.
+
+This project was developed entirely on mobile devices — initially on a smartphone and later moved to a tablet for final development — due to the temporary absence of a PC.
+
+It serves as a proof of concept that robust engineering, binary tag parsing, and complex background services can be implemented under strict hardware limitations.
+
+The lightweight development environment also helped avoid some of the configuration overhead and dependency-related issues commonly encountered with traditional desktop Android development environments.
 
 ## Important Note
-* Android 10+ is required for working with playlists.
-* Can't read third-party playlists. (I did with them everything I could)
+
+**Android 10+ is required for playlist functionality.**
+
+Third-party playlists are currently not supported. I've done everything I could to add support for them, but compatibility with playlists created by other media players remains limited.
 
 ## APK
-In the **Releases** page.
+
+The latest APK is available on the **Releases** page.
