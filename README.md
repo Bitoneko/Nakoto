@@ -20,8 +20,6 @@ This project was developed entirely on mobile devices — initially on a smartph
 
 It serves as a proof of concept that robust engineering, binary tag parsing, and complex background services can be implemented under strict hardware limitations.
 
-The lightweight development environment also helped avoid some of the configuration overhead and dependency-related issues commonly encountered with traditional desktop Android development environments.
-
 ## Important Note
 
 **Android 10+ is required for playlist functionality.**
