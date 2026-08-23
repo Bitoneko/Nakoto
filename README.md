@@ -18,8 +18,8 @@ A lightweight, high-performance local audio player for Android.
 This project was developed entirely on mobile devices (initially on a smartphone, then moved and finalized on a tablet) due to the temporary absence of a PC. It stands as a proof of concept that robust engineering, binary tag parsing, and complex background services can be successfully implemented under strict hardware limitations. Interestingly, this lightweight approach bypasses the bloated configuration files and Gradle dependency hell of standard PC IDEs, where compilation errors and environment conflicts often trigger unexpected build failures.
 
 ## Important Note
-Android 10+ is required for working with playlists.
-Can't read third-party playlists. (I did with them everything I could)
+* Android 10+ is required for working with playlists.
+* Can't read third-party playlists. (I did with them everything I could)
 
 ## APK
 In the **Releases** page.
