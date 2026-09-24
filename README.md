@@ -25,7 +25,3 @@ It serves as a proof of concept that robust engineering, binary tag parsing, and
 **Android 10+ is required for playlist functionality.**
 
 Third-party playlists are currently not supported. I've done everything I could to add support for them, but compatibility with playlists created by other media players remains limited.
-
-## APK
-
-The latest APK is available on the **Releases** page.
