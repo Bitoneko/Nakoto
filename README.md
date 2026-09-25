@@ -29,7 +29,7 @@ The project was built under limited hardware conditions while still implementing
 
 ## Requirements
 
-- Android 10 or newer
+- Android 11 or newer
 - Access to local audio files
 
 ## Playlist Compatibility
