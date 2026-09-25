@@ -1,27 +1,52 @@
 # Nakoto Music
 
-A lightweight, high-performance local audio player for Android.
+A lightweight local music player for Android, designed for simple and convenient management of personal music libraries.
 
-## Key Features
+## Features
 
-* **Foreground Audio Service:** Smooth, uninterrupted background playback with reliable OS lifecycle management.
-* **Built-in Tag Editor:** Advanced metadata manipulation, including ID3 tag parsing and direct binary file rewriting.
-* **Clean & Modern UI:** Designed with a focus on seamless navigation and responsive performance.
+- Local music library with tracks, albums, artists, and playlists
+- Continue section for recently played music
+- Fast library and track search
+- Album artwork support
+- Background playback through a foreground audio service
+- Built-in audio metadata and tag editor
+- ID3 tag parsing and editing
+- Direct binary rewriting of audio files
+- Dark, minimal interface
 
 ## Tech Stack
 
-* **Language:** Java
-* **Platform:** Android
-* **Development Environment:** Sketchware Pro
+- **Language:** Java
+- **Platform:** Android
+- **Development Environment:** Sketchware Pro
 
-## Architecture Note
+## Development
 
-This project was developed entirely on mobile devices — initially on a smartphone and later moved to a tablet for final development — due to the temporary absence of a PC.
+Nakoto was developed entirely on mobile devices. Development initially started on a smartphone and was later continued on a tablet.
 
-It serves as a proof of concept that robust engineering, binary tag parsing, and complex background services can be implemented under strict hardware limitations.
+The project was built under limited hardware conditions while still implementing features such as background audio playback, media library management, metadata parsing, binary file manipulation, search, and playlist management.
 
-## Important Note
+## Requirements
 
-**Android 10+ is required for playlist functionality.**
+- Android 10 or newer
+- Access to local audio files
 
-Third-party playlists are currently not supported. I've done everything I could to add support for them, but compatibility with playlists created by other media players remains limited.
+## Playlist Compatibility
+
+Android 10+ is required for playlist functionality.
+
+Third-party playlists are currently not fully supported. Playlists created by other music players may not always be detected or interpreted correctly because different applications can use different methods of storing and managing playlists.
+
+## Project Status
+
+Nakoto is currently in beta.
+
+The application is functional and actively developed, but some features and compatibility may still change as development continues.
+
+### © 2026 Bitoneko.
+
+<p align="center">
+  <a href="https://github.com/Bitoneko/Nakoto/releases">
+    <img src="https://img.shields.io/badge/Download_on_GitHub-808080?style=for-the-badge&logo=github&logoColor=white" alt="Download on GitHub">
+  </a>
+</p>
