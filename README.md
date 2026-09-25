@@ -2,12 +2,13 @@
 
 A lightweight local music player for Android, designed for simple and convenient management of personal music libraries.
 
+<img width="1687" height="2048" alt="1000038604" src="https://github.com/user-attachments/assets/9f763b59-44ac-4d46-946d-de5dc56869ad" />
+
 ## Features
 
 - Local music library with tracks, albums, artists, and playlists
 - Continue section for recently played music
 - Fast library and track search
-- Album artwork support
 - Background playback through a foreground audio service
 - Built-in audio metadata and tag editor
 - ID3 tag parsing and editing
