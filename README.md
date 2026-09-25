@@ -2,7 +2,7 @@
 
 A lightweight local music player for Android, designed for simple and convenient management of personal music libraries.
 
-<img width="700" height="900" alt="1000038604" src="https://github.com/user-attachments/assets/9f763b59-44ac-4d46-946d-de5dc56869ad" />
+<img width="800" height="900" alt="1000038604" src="https://github.com/user-attachments/assets/9f763b59-44ac-4d46-946d-de5dc56869ad" />
 
 ## Features
 
