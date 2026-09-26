@@ -31,6 +31,7 @@ The project was built under limited hardware conditions while still implementing
 
 - Android 11 or newer
 - Access to local audio files
+- Microphone for Recorder
 
 ## Playlist Compatibility
 
