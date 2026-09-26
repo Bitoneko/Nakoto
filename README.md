@@ -34,7 +34,7 @@ The project was built under limited hardware conditions while still implementing
 
 ## Playlist Compatibility
 
-Android 10+ is required for playlist functionality.
+Android 11+ is required for playlist functionality.
 
 Third-party playlists are currently not fully supported. Playlists created by other music players may not always be detected or interpreted correctly because different applications can use different methods of storing and managing playlists.
 
